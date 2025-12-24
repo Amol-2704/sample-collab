@@ -1,7 +1,7 @@
 # Hi, I'm [Your Name]! 👋 
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=[YOUR-GITHUB-USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Amol Srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
